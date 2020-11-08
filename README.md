@@ -1,16 +1,17 @@
-# bmi_calculator_test
+# BmiCalculator
+BmiCalculator flutter app is used to teach students on how to use statelesswidget
+## Topic that should be discuss and learn
+-Screens and Widgets Separation
+-AppBar
+-Flutter Color using Hexadecimal 0xFF303F48, 0xFF opacity level.
+-constant variable
+-StatelessWidget
+-GestureDetector
+-Anonymous function
+-Ternary operator
+-TextField & TextEditingController
+-OutlineButton
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Output after the lesson
+<img src="https://github.com/enehry/BmiCalculator-Final/blob/main/Screenshot_1.png" width="350" title="hover text">
+<img src="https://github.com/enehry/BmiCalculator-Final/blob/main/Screenshot_2.png" width="350" title="hover text">
